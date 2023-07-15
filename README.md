@@ -1,9 +1,7 @@
 ### 🥰Hi there 
 
-### 💪🏻Skills💪🏻
-
-## Graphic
-
+## **💪🏻Skills💪🏻**
+--- --- --- 
 ### 🛠Tool🛠
 <img src="https://img.shields.io/badge/Adobe photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rhino-801010?style=flat-square&logo=rhinoceros&logoColor=white"/> <img src="https://img.shields.io/badge/Vs Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
