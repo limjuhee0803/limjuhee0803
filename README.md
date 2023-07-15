@@ -1,9 +1,11 @@
 ### 🥰Hi there 
 
-### 💪🏻Skills
+### 💪🏻Skills💪🏻
 
 ## Graphic
-<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=firebase&logoColor=white"/>
+
+### 🛠Tool🛠
+<img src="https://img.shields.io/badge/Adobe photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 
 <!--
 **limjuhee0803/limjuhee0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
